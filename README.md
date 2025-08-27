@@ -7,7 +7,4 @@
 ## EXPERIENCE
   Publishing a project titled "Detection and Prediction of Air Pollution Levels in a Specific City Using Deep Learning" in the International Journal on Recent and Innovation Trends in Computing and Communication is a significant accomplishment that reflects the culmination of dedicated effort and expertise. The project, which spanned a month of intensive work, represents a valuable contribution to the field of environmental science and artificial intelligence. The study focused on leveraging deep learning techniques, particularly Long Short-Term Memory (LSTM) networks, to analyze extensive datasets comprising air quality measurements and meteorological factors. The publication signifies a commitment to advancing knowledge in the domain of air pollution monitoring, showcasing the potential of deep learning algorithms in providing accurate predictions for urban air quality. This experience in publishing underscores the importance of interdisciplinary collaboration and the application of cutting-edge technologies to address pressing global challenges related to environmental health.
 
-## Link for Customer Attribution
-  ongoing 
-
 
